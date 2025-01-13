@@ -25,29 +25,8 @@ RAX包含两个模块，SourceScanner模块以及ModelTrainAndPredict模块
     - 预测-使用随机森林机器学习模型
 ```
 
-其中软件系统圈复杂度扫描功能适用于其他语言编写的软件，包括如下：
-```
--  C/C++ (works with C++14)
--  Java
--  C# (C Sharp)
--  JavaScript (With ES6 and JSX)
--  TypeScript
--  Objective-C
--  Swift
--  Python
--  Ruby
--  TTCN-3
--  PHP
--  Scala
--  GDScript
--  Golang
--  Lua
--  Rust
--  Fortran
--  Kotlin
--  Solidity
--  Erlang
-```
+软件系统圈复杂度扫描功能适用于用C/C++编写的软件（与C++14兼容）
+
 
 其中Arch_code扫描功能获取如下架构绑定代码的潜在工作量：
 ```
